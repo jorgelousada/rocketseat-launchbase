@@ -1,0 +1,28 @@
+Responsabilidades do BACKEND:
+-Aplicação de servidor
+-Responsavel pelas regras de negocio
+-Receber pedidos do cliente
+-Armazenamento dos dados
+
+Responsabilidades do FRONTEND:
+-Apresentacao dos dados em tela
+-Solicitação os dados para o servidor
+
+ACRÔNIMOS:
+HTTP - Hipertext transfer Protocol
+HTML - Hipertext Markup Language
+CSS - Cascading style sheet
+
+HTML - é responsavel pelo conteudo da página
+HTML pode ter conteudos internos e/ou atributos
+
+CSS - é responsavel pela estilização da página
+No CSS usamos seletores para alterar o estilo do HTML
+
+Seletor de classe: '.'
+Seletor de id: '#'
+
+Exemplo:
+.red{
+color:#ff0000;
+}
